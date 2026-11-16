@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LVNG -X</string>
+    <string name="macro_accessibility_description">Mengirim gesture sentuh ke target yang kamu atur saat trigger Macro LVNG -X ditahan. Tidak membaca isi layar atau data pribadi.</string>
+</resources>
