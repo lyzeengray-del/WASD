@@ -1,5 +1,7 @@
 package com.lvngx.app
 
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import android.content.Context
 import android.content.Intent
 import android.content.pm.ApplicationInfo
